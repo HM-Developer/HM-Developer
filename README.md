@@ -8,7 +8,7 @@
     width="100%"
   />
 </p>
-<h3 align="center">A Freelnacer Frontend Developer</h3>
+
 <p align="left">
   <img
     src="https://komarev.com/ghpvc/?username=hm-developer&label=Profile%20views&color=0e75b6&style=flat"
@@ -17,9 +17,12 @@
 </p>
  <img width="350" height="201.25" align="right" alt="Github" src="https://github.githubassets.com/images/modules/profile/profile-first-issue-dark.svg" />
  
+- 👋 Hello, my name is Hassan Mustafa, 
 - 💬 Ask me about **Front End, Vue3** 
 - 📫 How to reach me **business.dev.hm@gmail.com** 
-
+- :man_technologist: I am a Frontend Web Developer with a passion for building visually stunning and user-friendly websites.
+- :octocat: My GitHub profile showcases my skills and expertise in HTML, CSS, SCSS, JavaScript, TypeScript, and Vue.js.
+- :pray: Thank you for visiting my GitHub profile!
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![GitHub
 contributors](https://img.shields.io/github/contributors/HM-Developer/HM-Developer)](https://github.com/HM-Developer/HM-Developer/graphs/contributors)
@@ -174,7 +177,10 @@ Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-squ
     width="50%"
   />
 </div>
-<!-- Contact Me -->
+<p>
+  
+</p>
+
 <div>
   <h3>
     <img
