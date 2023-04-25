@@ -19,8 +19,7 @@ issues](https://img.shields.io/github/issues/HM-Developer/HM-Developer)](https:/
 [![PRs
 Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/HM-Developer/HM-Developer/pulls)
 [![HitCount](https://views.whatilearened.today/views/github/HM-Developer/HM-Developer.svg)](https://github.com/HM-Developer/HM-Developer)
-[![website
-coderjojo.github.io](https://img.shields.io/website-up-down-green-red/http/coderjojo.github.io/creative-profile-readme.svg)](https://coderjojo.github.io/creative-profile-readme/)
+
 
 <h3>
   <img
