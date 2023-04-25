@@ -1,6 +1,14 @@
-<h1 align="center">Hi 👋, I'm Hassan Mostafa</h1>
-<h3 align="center">A Freelnacer Frontend Developer</h3>
+<h1 align="center">Hi 👋, I'm Hassan Mostafa </h1>
 
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/HM-Developer/HM-Developer/main/Cover.jpg"
+    alt="hm-developer"
+    width="100%"
+  />
+</p>
+<h3 align="center">A Freelnacer Frontend Developer</h3>
 <p align="left">
   <img
     src="https://komarev.com/ghpvc/?username=hm-developer&label=Profile%20views&color=0e75b6&style=flat"
@@ -11,6 +19,7 @@
  
 - 💬 Ask me about **Front End, Vue3** 
 - 📫 How to reach me **business.dev.hm@gmail.com** 
+
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![GitHub
 contributors](https://img.shields.io/github/contributors/HM-Developer/HM-Developer)](https://github.com/HM-Developer/HM-Developer/graphs/contributors)
