@@ -201,9 +201,20 @@ Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-squ
       alt="jsdev.hm"
       height="30"
       width="40"
-  /></a>
-     <a href="https://wa.me/+201002775767" target="blank"
+  />
+  
+  </a>
+    <a href="https://www.linkedin.com/in/hm-developer/" target="blank"
     ><img
+      align="center"
+      src="https://cdn-icons-png.flaticon.com/512/174/174857.png"
+      alt="jsdev.hm"
+      height="30"
+      width="40"
+  /></a>
+
+   <a href="https://wa.me/+201002775767" target="blank">
+     <img
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg"
       alt="jsdev.hm"
