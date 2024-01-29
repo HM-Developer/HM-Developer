@@ -18,10 +18,10 @@
  <img width="350" height="201.25" align="right" alt="Github" src="https://github.githubassets.com/images/modules/profile/profile-first-issue-dark.svg" />
  
 - 👋 Hello, my name is Hassan Mustafa, 
-- 💬 Ask me about **Front End, Vue3** 
+- 💬 Ask me about **React, Next.js, Nodejs, Mongodb, mySQL** 
 - 📫 How to reach me **business.dev.hm@gmail.com** 
-- :man_technologist: I am a Frontend Web Developer with a passion for building visually stunning and user-friendly websites.
-- :octocat: My GitHub profile showcases my skills and expertise in HTML, CSS, SCSS, JavaScript, TypeScript, and Vue.js.
+- :man_technologist: I am a Fullstack Web Developer with a passion for building visually stunning and user-friendly websites.
+- :octocat: My GitHub profile showcases my skills and expertise in MERN Stack.
 - :pray: Thank you for visiting my GitHub profile!
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![GitHub
@@ -56,7 +56,7 @@ Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-squ
   <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
     <img
       src="https://img.shields.io/badge/-Scss-2e3440?&logo=sass"
-      alt="sass"
+      alt="scss"
     />
   </a>
   <a
@@ -69,6 +69,12 @@ Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-squ
       alt="javascript"
     />
   </a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+    <img
+      src="https://img.shields.io/badge/-Typescript-2e3440?&logo=typescript"
+      alt="typescript"
+    />
+  </a>
 </p>
 
 <h3>
@@ -76,28 +82,40 @@ Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-squ
     src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif"
     width="30"
   />
-  Frameworks
+  Backend End Languages
 </h3>
 <p align="left">
-  <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
+  <a href="https://nodejs.org/en" target="_blank" rel="noreferrer">
     <img
-      src="https://img.shields.io/badge/-Vue%203-2e3440?&logo=vue.js"
-      alt="vuejs"
+      src="https://img.shields.io/badge/-Node%20JS-2e3440?&logo=node.js"
+      alt="Node JS"
     />
   </a>
-  <a href="https://nuxtjs.org/" target="_blank" rel="noreferrer">
+  <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
     <img
-      src="https://img.shields.io/badge/-Next%20JS-2e3440?&logo=nuxt.js"
-      alt="nuxtjs"
+      src="https://img.shields.io/badge/-Express-2e3440?&logo=express"
+      alt="Express"
     />
   </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+  <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
     <img
-      src="https://img.shields.io/badge/-Bootstrap-2e3440?&logo=bootstrap"
-      alt="vuejs"
+      src="https://img.shields.io/badge/-Nest%20Js-2e3440?&logo=nestjs"
+      alt="nest"
     />
   </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://img.shields.io/badge/-Mongo%20DB-2e3440?&logo=mongodb"
+      alt="Mongo DB"
+    />
+  </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://img.shields.io/badge/-MySql-2e3440?&logo=mysql"
+      alt="mysql"
+    />
+  </a>
+   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
     <img
       src="https://img.shields.io/badge/-Firebase-2e3440?&logo=firebase"
       alt="firebase"
@@ -110,15 +128,43 @@ Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-squ
     src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif"
     width="30"
   />
+  Frameworks
+</h3>
+<p align="left">
+  <a href="https://react.dev/" target="_blank" rel="noreferrer">
+    <img
+      src="https://img.shields.io/badge/-React-2e3440?&logo=react"
+      alt="React"
+    />
+  </a>
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+    <img
+      src="https://img.shields.io/badge/-Next%20JS-2e3440?&logo=next.js"
+      alt="Next.js"
+    />
+  </a>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://img.shields.io/badge/-Tailwind-2e3440?&logo=tailwindcss"
+      alt="Tailwind"
+    />
+  </a>
+  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+    <img
+      src="https://img.shields.io/badge/-Bootstrap-2e3440?&logo=bootstrap"
+      alt="Bootstrap"
+    />
+  </a>
+</p>
+
+<h3>
+  <img
+    src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif"
+    width="30"
+  />
   Tools I Learned
 </h3>
 <p align="left">
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://img.shields.io/badge/-Typescript-2e3440?&logo=typescript"
-      alt="typescript"
-    />
-  </a>
 
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img
