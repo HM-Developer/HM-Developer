@@ -3,7 +3,7 @@
 
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/HM-Developer/HM-Developer/main/Cover.jpg"
+    src="https://github.com/HM-Developer/HM-Developer/blob/main/Cover%202.jpg?raw=true"
     alt="hm-developer"
     width="100%"
   />
